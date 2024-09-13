@@ -38,9 +38,9 @@ engine.setProperty('rate',173)
 
 ### API KEYS #####
 
-NEWS_API_KEY = "e7913d73232247d9bcae6a7b2e19d350"
-TMDB_API_KEY = '2a5f06f09e06d29b5982c6a1ab662c3b'
-api_key = 'fc60c656a6ec8bb4043e23b8c7142206'
+NEWS_API_KEY = your key
+TMDB_API_KEY = key***
+api_key = *****
 
  
 
